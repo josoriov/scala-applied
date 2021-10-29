@@ -1,0 +1,5 @@
+*.class
+*.log
+
+# course material folders
+slides/
