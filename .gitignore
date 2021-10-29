@@ -3,3 +3,10 @@
 
 # course material folders
 slides/
+
+# some .idea folders
+.idea/libraries/
+.idea/modules/
+
+# target folders
+target/
