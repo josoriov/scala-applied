@@ -1,3 +1,3 @@
-val t = (0, 'u', 8, 1, "too")
+var getSet = scala.collection.mutable.Set("Ready", "Steady")
 
-t.productIterator.next()
+getSet = getSet ++ Set("Go!")
