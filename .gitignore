@@ -1,0 +1,17 @@
+# compiled sources
+*.class
+*.log
+*.exe
+*.com
+*.dll
+*.o
+*.so
+
+# course material folders
+slides/
+
+# folders
+.bsp/
+.idea/
+.sbt/
+target/
